@@ -140,13 +140,5 @@ const App = () => {
 
 export default App;
 ```
-
-## 🤝 Contribuir
-Si deseas contribuir a este proyecto, puedes hacerlo a través de **Pull Requests**. Por favor, sigue estos pasos:
-
-1. **Clona el repositorio** y crea una nueva rama.
-2. Realiza los cambios y haz `commit`.
-3. Envía una **Pull Request** describiendo los cambios realizados.
-
 ## 📜 Licencia
 Este proyecto está bajo la **Licencia MIT**, lo que significa que puedes utilizarlo, modificarlo y distribuirlo libremente.
